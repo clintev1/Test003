@@ -1,0 +1,19 @@
+body
+{
+background-image: linear-gradient(to right top, #f7f7f7, #818181, #000000, #818181, #f7f7f7);
+}
+
+b
+{
+ color: aqua;
+}
+
+p
+{
+  color: blueviolet;
+}
+
+label
+{
+  color: rgb(132, 255, 61);
+}
